@@ -1,2 +1,3 @@
-# galeria-catetinho
-Exemplo de site Jekyll com coleções
+# Galeria do Catetinho
+
+Material de arquivo sobre o Catetinho.
