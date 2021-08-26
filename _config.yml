@@ -2,5 +2,3 @@ title: "Galeria de documentos do Catetinho"
 author: "Pedro Palazzo"
 description: "Uma galeria de fotos e textos"
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-readme-index
